@@ -153,7 +153,6 @@ Save the code as `MoProgram/factorial.mo` to run it from the menu. The `examples
 ├── MoProgram/                # Directory scanned by the run menu for .mo programs
 ├── examples/                 # Example Mo programs
 ├── tests/                    # Test inputs and expected-output files
-├── docs/report.pdf           # Project report
 └── Makefile                  # Build and clean targets
 ```
 

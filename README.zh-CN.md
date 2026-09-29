@@ -153,7 +153,6 @@ end
 ├── MoProgram/                # 运行菜单扫描的 .mo 程序目录
 ├── examples/                 # 示例 Mo 程序
 ├── tests/                    # 测试输入与参考输出文件
-├── docs/report.pdf           # 项目报告
 └── Makefile                  # 编译与清理规则
 ```
 
